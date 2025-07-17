@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Teaching & Research"
 permalink: /teaching/
 author_profile: true
 ---
