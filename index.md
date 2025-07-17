@@ -3,9 +3,8 @@ layout: single
 title: "About"
 permalink: /
 author_profile: true
+sidebar: nav
 ---
-
-# About Me
 
 I am a computational scientist with over 20 years of experience developing tools and workflows for Earth system modeling and analysis. Currently, I serve as Chief Scientific Programmer Analyst with Science Systems and Applications, Inc. (SSAI), supporting the NASA Goddard Space Flight Center (GSFC).
 

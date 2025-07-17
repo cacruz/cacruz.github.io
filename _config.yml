@@ -31,13 +31,7 @@ author:
 
 # Sidebar configuration
 sidebar:
-  nav: "sidebar-nav"
-
-# Collections for pages
-collections:
-  pages:
-    output: true
-    permalink: /:collection/:path/
+  nav: "navigation"
 
 # Defaults
 defaults:
