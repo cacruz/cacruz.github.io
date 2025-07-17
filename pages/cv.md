@@ -132,5 +132,6 @@ _B.S., Physics_ — May 1988
 - Fluent in Spanish  
 - U.S. Citizen
 
+---
 
-Detailed descriptions of my roles are available in my [full CV](/cv/).
+Detailed CV available here:[Download CV (PDF)](/assets/files/carlos_cruz_cv.pdf)
