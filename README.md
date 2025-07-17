@@ -1,12 +1,23 @@
-This repository hosts my academic and professional portfolio.
+# Carlos Cruz – Academic & Professional Portfolio
 
-🌐 View the site: [cacruz.github.io](https://cacruz.github.io)
+Welcome! This repository contains the source for my academic and professional portfolio.
 
-### Contents
+🌐 **Live Site:** [cacruz.github.io](https://cacruz.github.io)
 
-- 📄 [CV](https://cacruz.github.io/cv/)
-- 💼 [Projects](https://cacruz.github.io/projects/)
-- 🎓 [Teaching & Research](https://cacruz.github.io/teaching/)
+## About
+
+I am a computational scientist specializing in Earth system modeling, scientific software, and data visualization. This site showcases my CV, projects, teaching, and research.
+
+## Quick Links
+
+- [CV](https://cacruz.github.io/cv/)
+- [Projects](https://cacruz.github.io/projects/)
+- [Teaching & Research](https://cacruz.github.io/teaching/)
+- [LinkedIn](https://www.linkedin.com/in/carlos-cruz-0844b79)
+- [GitHub Profile](https://github.com/cacruz)
+  
+Contact
+For professional inquiries, please reach out via LinkedIn or email: carlos.a.cruz@nasa.gov
 
 ---
 
