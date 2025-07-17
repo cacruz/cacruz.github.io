@@ -6,6 +6,9 @@ This site highlights my work in:
 - Scientific software engineering and visualization (e.g., eViz)
 - Teaching and mentoring in computational data science
 
+📍 **Live Site:** [cacruz.github.io](https://cacruz.github.io)  
+📄 **CV:** [carloscruz.github.io/cv](https://cacruz.github.io/cv)
+
 Feel free to explore the source, reuse the site layout, or reach out with questions.
 
 ---

@@ -23,7 +23,7 @@ Greenbelt, MD 20771
 ## Skills
 
 - HPC: Experience with complex climate/data assimilation systems  
-- Models: WRF, GEOS-5, modelE, MOM4, HyCOM  
+- Models: NU-WRF, GEOS-5, modelE, MOM4, HyCOM  
 - Programming: Fortran, Python, C/C++, Bash  
 - Tools: MPI, TotalView, Allinea, TAU  
 - Visualization: Matlab, GrADS, LaTeX, MS Office  
@@ -59,7 +59,7 @@ _B.S., Physics_ — May 1988
 
 ### SSAI @ NASA GSFC — Chief Scientific Programmer Analyst (May 2012 – Present)
 
-- Lead software engineer for NASA Unified WRF (NU-WRF)
+- Lead software engineer of NASA Unified WRF (NU-WRF)
 - Architect of **eViz**, real-time Earth system model visualizer
 - Developer of **reg**, a Python-based regression testing tool
 - Refactored NASA-GISS modelE for HPC compatibility and regression testing
@@ -68,7 +68,7 @@ _B.S., Physics_ — May 1988
 
 ### NGIT @ NASA GSFC — Physicist IV (Jan 2007 – Apr 2012)
 
-- Developed giga-particle stratospheric trajectory model (C++/MPI)
+- Co-developed giga-particle stratospheric trajectory model (C++/MPI)
 - Meteorological event cataloging via Moving Objects Database
 - Collaborated on Elastic Parallel IO (EPIO) using ADIOS
 - Developed GEOS-5 documentation and community support tools

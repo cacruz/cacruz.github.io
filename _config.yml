@@ -16,7 +16,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 author:
   name: "Carlos A. Cruz"
   avatar: "/assets/img/photo.jpg"
-  bio: "Lead developer of NU-WRF and eViz. Adjunct professor at GMU."
+  bio: "Lead software engineer of NU-WRF and eViz. Adjunct professor at GMU."
   location: "Maryland, USA"
   links:
     - label: "GitHub"
