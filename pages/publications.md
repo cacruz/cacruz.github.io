@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 📚 Selected Publications
-
 - **Xue, P.**, Zhong, Y., *et al.*, **Cruz, C.**, 2025  
   _Enhancing Winter Climate Simulations..._  
   *Geosci. Model Dev. Discuss.*  

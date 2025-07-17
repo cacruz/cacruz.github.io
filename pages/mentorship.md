@@ -5,8 +5,6 @@ permalink: /mentorship/
 author_profile: true
 ---
 
-# 🧑‍🏫 Mentorship
-
 I actively mentor undergraduate and graduate students through NASA internships and university research collaborations. These mentorships emphasize open-source tools, scientific reproducibility, and real-world applications in Earth system science.
 
 ---

@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching & Research
-
 I am passionate about bridging computational thinking, scientific modeling, and real-world data in both classroom and research settings. I focus on helping students and colleagues build sustainable, reproducible, and scalable scientific workflows.
 
 ---

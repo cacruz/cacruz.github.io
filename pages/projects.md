@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects
-
 ## eViz: Interactive Visualization for Earth System Models
 
 Python-based toolkit for real-time diagnostics and plotting of Earth System model output. Designed to integrate with HPC workflows and produce high-quality publication-ready plots.
