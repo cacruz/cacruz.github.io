@@ -3,11 +3,11 @@
 
 # Site settings
 title: "Carlos Cruz"
-name: "Carlos A. Cruz"
-description: "Computational Scientist | NASA GSFC | GMU"
-logo: "/assets/img/photo.jpg"
-url: "https://cacruz.github.io"
-baseurl: "" # GitHub Pages project root
+#name: "Carlos A. Cruz"
+#description: "Computational Scientist | NASA GSFC | GMU"
+#logo: "/assets/img/photo.jpg"
+#url: "https://cacruz.github.io"
+#baseurl: "" # GitHub Pages project root
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
