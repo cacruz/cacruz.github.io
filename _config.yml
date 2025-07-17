@@ -27,7 +27,7 @@ author:
       url: "https://www.linkedin.com/in/carlos-cruz-0844b79"
     - label: "CV (PDF)"
       icon: "fas fa-file-pdf"
-      url: "/assets/carlos_cruz_cv.pdf"
+      url: "/assets/files/carlos_cruz_cv.pdf"
 
 # Sidebar configuration
 sidebar:
