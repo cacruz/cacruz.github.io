@@ -1,9 +1,4 @@
-# Carlos Cruz — Computational Scientist Portfolio
-
-Welcome to my professional portfolio, built with [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme.
-
-📍 **Live Site:** [cacruz.github.io](https://cacruz.github.io)  
-📄 **CV:** [cacruz.github.io/cv](https://cacruz.github.io/cv)
+I am a computational scientist and software engineer with a Ph.D. in Climate Dynamics and over 20 years of experience in scientific programming, high-performance computing (HPC), and Earth system modeling. Proven ability to lead scientific software projects, apply AI/ML techniques to large-scale geophysical problems, and train diverse teams. Extensive work on parallel computing, numerical analysis, and accelerated computing in HPC environments.
 
 This site highlights my work in:
 

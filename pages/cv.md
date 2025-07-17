@@ -3,6 +3,9 @@ layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
+toc: true
+toc_sticky: true
+classes: wide
 ---
 
 # Carlos A. Cruz
@@ -11,20 +14,29 @@ author_profile: true
 
 **Work**  
 NASA Goddard Space Flight Center  
-Building 28, Room W250  
-Mailstop 606  
 Greenbelt, MD 20771  
-📞 (301) 286-3716  
-📠 (301) 286-1775  
+📱 (703) 405-4721  
 📧 carlos.a.cruz@nasa.gov  
 
-**Home**  
-7011 Devereux Circle Dr.  
-Alexandria, VA 22315  
-📱 (703) 405-4721  
-📧 carlos.a.cruz@gmail.com  
+---
+
+## Skills
+
+- HPC: Experience with complex climate/data assimilation systems  
+- Models: WRF, GEOS-5, modelE, MOM4, HyCOM  
+- Programming: Fortran, Python, C/C++, Bash  
+- Tools: MPI, TotalView, Allinea, TAU  
+- Visualization: Matlab, GrADS, LaTeX, MS Office  
+- OS: Unix/Linux, macOS (Darwin), Windows  
 
 ---
+
+## Research Interests
+
+Software engineering for scientific applications, climate dynamics, numerical modeling of physical systems, machine learning.
+
+---
+
 
 ## Education
 
@@ -43,31 +55,14 @@ _B.S., Physics_ — May 1988
 
 ---
 
-## Research Interests
-
-Software engineering for scientific applications, climate dynamics, numerical modeling of physical systems, machine learning.
-
----
-
-## Skills
-
-- HPC: Experience with complex climate/data assimilation systems  
-- Models: WRF, GEOS-5, modelE, MOM4, HyCOM  
-- Programming: Fortran, Python, C/C++, Bash  
-- Tools: MPI, TotalView, Allinea, TAU  
-- Visualization: Matlab, GrADS, LaTeX, MS Office  
-- OS: Unix/Linux, macOS (Darwin), Windows  
-
----
-
 ## Professional Experience
 
 ### SSAI @ NASA GSFC — Chief Scientific Programmer Analyst (May 2012 – Present)
 
-- Lead engineer for NASA Unified WRF (NU-WRF)
+- Lead software engineer for NASA Unified WRF (NU-WRF)
 - Architect of **eViz**, real-time Earth system model visualizer
+- Developer of **reg**, a Python-based regression testing tool
 - Refactored NASA-GISS modelE for HPC compatibility and regression testing
-- Co-developer of **reg**, a Python-based regression testing tool
 - Contributor to **TERRAHydro** and CREST tensor framework
 - Trained junior staff and organized NASA software training bootcamps
 
@@ -119,13 +114,14 @@ Software engineering for scientific applications, climate dynamics, numerical mo
 
 ### Adjunct Assistant Professor, GMU CDS Dept (2018–present)
 
-- CDS 230: Modeling and Simulation I  
 - CDS 351: Elements of High Performance Computing  
+- CDS 230: Modeling and Simulation I  
 - CDS 130: Computing for Scientists
 
 ### Instructor, NASA GSFC Training
 
 - ASTG Fortran Training: Fall/Spring 2021–2024  
+- ASTG Git/GitHub Training: Fall/Spring 2021–2024  
 - Python Boot Camps: GSFC (2016–2020), Langley (2016–2019)
 
 ### Teaching Assistant, GMU Physics/CDS (1989–1998)
@@ -134,7 +130,7 @@ Software engineering for scientific applications, climate dynamics, numerical mo
 
 ## Selected Publications
 
-- **Xue, P.**, Zhong, Y., *et al.*, **Cruz, C.**, 2024  
+- **Xue, P.**, Zhong, Y., *et al.*, **Cruz, C.**, 2025  
   *Enhancing Winter Climate Simulations...*, _Geosci. Model Dev. Discuss._  
   [DOI:10.5194/gmd-2024-146](https://doi.org/10.5194/gmd-2024-146)
 
@@ -188,6 +184,5 @@ Software engineering for scientific applications, climate dynamics, numerical mo
 
 - Scientific/Parallel Programming (MPI, HPC)  
 - Numerical Methods & Geophysical Modeling  
-- Molecular Modeling  
 - Fluent in Spanish  
 - U.S. Citizen
