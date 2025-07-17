@@ -97,8 +97,6 @@ _B.S., Physics_ — May 1988
 
 - Participated in Filmless Dental Imaging, NMR polymer analysis, and microencapsulation experiments
 
-<small>Detailed descriptions of my roles are available in my [full CV](/cv/).</small>
-
 ---
 
 ## Awards
@@ -133,3 +131,6 @@ _B.S., Physics_ — May 1988
 - Numerical Methods & Geophysical Modeling  
 - Fluent in Spanish  
 - U.S. Citizen
+
+
+Detailed descriptions of my roles are available in my [full CV](/cv/).
