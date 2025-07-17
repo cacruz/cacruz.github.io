@@ -134,4 +134,4 @@ _B.S., Physics_ — May 1988
 
 ---
 
-Detailed CV available here:[Download CV (PDF)](/assets/files/carlos_cruz_cv.pdf)
+Detailed CV available here: [Download CV (PDF)](/assets/files/carlos_cruz_cv.pdf)
