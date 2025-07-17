@@ -1,4 +1,6 @@
 ---
+title: "Projects"
+excerpt: "A showcase of my professional projects.
 layout: single
 permalink: /projects/
 author_profile: true

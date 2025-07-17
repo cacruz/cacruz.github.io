@@ -1,4 +1,6 @@
 ---
+title: "Teaching"
+excerpt: "Teaching and mentoring in computational and data sciences."
 layout: single
 permalink: /teaching/
 author_profile: true

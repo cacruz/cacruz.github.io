@@ -1,4 +1,5 @@
 ---
+title: "Resume"
 layout: single
 permalink: /cv/
 author_profile: true
