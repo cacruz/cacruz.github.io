@@ -18,7 +18,7 @@ author_profile: true
   _NU-WRF Cold Season Performance..._  
   *Journal of Hydrometeorology*, 22
 
-<small>Additional references available upon request or in the [full CV](/cv/).</small>
+<small>Full list available upon request or in the [full CV](/cv/).</small>
 
 ---
 

@@ -19,21 +19,23 @@ I teach and develop courses that equip students with foundational and applied sk
 
 **Courses Taught:**
 - 🧮 **CDS 130: Computing for Scientists**  
-  Introduction to programming, data structures, and algorithmic thinking for physical and life sciences.
+  Introduction to programming and algorithmic thinking for solving practical scientific problems.
 
 - 🧪 **CDS 230: Modeling and Simulation I**  
-  Mathematical modeling, simulation design, and numerical methods in science and engineering contexts.
+  Introduction to modeling and simulation concepts using the Python programming language.
 
 - 🖥️ **CDS 351: Elements of High Performance Computing**  
-  Parallel computing, performance optimization, and the use of modern HPC platforms in scientific research.
+  Explore aspects of high-performance computing (HPC) including Unix basics, file systems, command scripts, Git, C/C++ programming, basics of parallel programming, and HPC system architectures.
 
 ### Instructor, NASA GSFC Training
 
-- ASTG Fortran Training: Fall/Spring 2021–2024  
-- ASTG Git/GitHub Training: Fall/Spring 2021–2024  
-- Python Boot Camps: GSFC (2016–2020), Langley (2016–2019)
+- ASTG **Fortran** Training: Fall/Spring 2021–2024  
+- ASTG **Git/GitHub** Training: Fall/Spring 2021–2024  
+- **Python** Boot Camps: GSFC (2016–2020), Langley (2016–2019)
 
-### Teaching Assistant, GMU Physics/CDS (1989–1998)
+### Teaching Assistant, GMU Computational Sciences and Informatics (1998)
+
+### Teaching Assistant, GMU Physics Department (1989)
 
 ---
 
