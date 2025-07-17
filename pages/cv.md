@@ -37,7 +37,6 @@ Software engineering for scientific applications, climate dynamics, numerical mo
 
 ---
 
-
 ## Education
 
 **George Mason University**, Fairfax, VA  
@@ -97,60 +96,6 @@ _B.S., Physics_ — May 1988
 ### Walter Reed Army Institute of Research — Research Assistant (Oct 1990 – Oct 1995)
 
 - Participated in Filmless Dental Imaging, NMR polymer analysis, and microencapsulation experiments
-
----
-
-## Mentoring
-
-- **Anna Boone**, Univ. of Oregon (2024) — _sViz: browser visualizations using eViz_  
-- **Aarav Khanna**, Cornell (2023) — _eViz for NU-WRF_  
-- **Deon Kouatchou**, Carnegie Mellon (2023) — _ASSERT regression testing suite_  
-- **Deepthi Raghunandan**, UMD (2021) — _eViz and Earth System diagnostics_  
-- **Trisha Michael**, SDSMT (2012) — _MCS event tracking analysis_
-
----
-
-## Teaching
-
-### Adjunct Assistant Professor, GMU CDS Dept (2018–present)
-
-- CDS 351: Elements of High Performance Computing  
-- CDS 230: Modeling and Simulation I  
-- CDS 130: Computing for Scientists
-
-### Instructor, NASA GSFC Training
-
-- ASTG Fortran Training: Fall/Spring 2021–2024  
-- ASTG Git/GitHub Training: Fall/Spring 2021–2024  
-- Python Boot Camps: GSFC (2016–2020), Langley (2016–2019)
-
-### Teaching Assistant, GMU Physics/CDS (1989–1998)
-
----
-
-## Selected Publications
-
-- **Xue, P.**, Zhong, Y., *et al.*, **Cruz, C.**, 2025  
-  *Enhancing Winter Climate Simulations...*, _Geosci. Model Dev. Discuss._  
-  [DOI:10.5194/gmd-2024-146](https://doi.org/10.5194/gmd-2024-146)
-
-- **Nazarenko, L.**, *et al.*, **Cruz, C.**, 2022  
-  *Future Climate Change Under SSP...*, _JAMES_, 14(7)
-
-- **Notaro, M.**, *et al.*, **Cruz, C.**, 2021  
-  *NU-WRF Cold Season Performance...*, _J. Hydrometeorology_, 22
-
-(Additional references available upon request or [in full CV](#))
-
----
-
-## Conference Proceedings
-
-- **Cruz, C.**, Valenti, V., 2024: *EViz: Empowering Earth System Model Visualization*, AMS  
-- **Raghunandan, D.**, **Cruz, C.**, 2021: *Live Visualization for NASA Models*, AGU  
-- **Tao, Z.**, **Cruz, C.**, 2023: *Improving Aerosol Representation in NU-WRF*, AMS
-
-(Full list available upon request)
 
 ---
 

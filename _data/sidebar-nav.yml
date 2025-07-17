@@ -5,3 +5,9 @@ main:
     url: /cv/
   - title: "Projects"
     url: /projects/
+  - title: "Teaching & Research"
+    url: /teaching/
+  - title: "Mentorship"
+    url: /mentorship/
+  - title: "Publications"
+    url: /publications/

@@ -1,15 +1,14 @@
-I am a computational scientist and software engineer with a Ph.D. in Climate Dynamics and over 20 years of experience in scientific programming, high-performance computing (HPC), and Earth system modeling. Proven ability to lead scientific software projects, apply AI/ML techniques to large-scale geophysical problems, and train diverse teams. Extensive work on parallel computing, numerical analysis, and accelerated computing in HPC environments.
+# Carlos Cruz – Online Portfolio
 
-This site highlights my work in:
+This repository hosts my academic and professional portfolio.
 
-- Earth system modeling and high-performance computing (HPC)
-- Scientific software engineering and visualization (e.g., eViz)
-- Teaching and mentoring in computational data science
+🌐 View the site: [cacruz.github.io](https://cacruz.github.io)
 
-📍 **Live Site:** [cacruz.github.io](https://cacruz.github.io)  
-📄 **CV:** [carloscruz.github.io/cv](https://cacruz.github.io/cv)
+### Contents
 
-Feel free to explore the source, reuse the site layout, or reach out with questions.
+- 📄 [CV](https://cacruz.github.io/cv/)
+- 💼 [Projects](https://cacruz.github.io/projects/)
+- 🎓 [Teaching & Research](https://cacruz.github.io/teaching/)
 
 ---
 
