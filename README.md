@@ -1,5 +1,3 @@
-# Carlos Cruz – Online Portfolio
-
 This repository hosts my academic and professional portfolio.
 
 🌐 View the site: [cacruz.github.io](https://cacruz.github.io)
