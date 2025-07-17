@@ -59,8 +59,8 @@ _B.S., Physics_ — May 1988
 ### SSAI @ NASA GSFC — Chief Scientific Programmer Analyst (May 2012 – Present)
 
 - Lead software engineer of NASA Unified WRF (NU-WRF)
-- Architect of **eViz**, real-time Earth system model visualizer
-- Developer of **reg**, a Python-based regression testing tool
+- Architect of **eViz**, an easy to use real-time Earth system model visualization tool
+- Architect of **reg**, a Python-based regression testing tool
 - Refactored NASA-GISS modelE for HPC compatibility and regression testing
 - Contributor to **TERRAHydro** and CREST tensor framework
 - Trained junior staff and organized NASA software training bootcamps
@@ -96,6 +96,8 @@ _B.S., Physics_ — May 1988
 ### Walter Reed Army Institute of Research — Research Assistant (Oct 1990 – Oct 1995)
 
 - Participated in Filmless Dental Imaging, NMR polymer analysis, and microencapsulation experiments
+
+<small>Detailed descriptions of my roles are available in my [full CV](/cv/).</small>
 
 ---
 

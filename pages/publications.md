@@ -24,7 +24,7 @@ author_profile: true
 
 ## 📄 Conference Proceedings
 
-- **Cruz, C.**, Valenti, V., 2024  
+- **Cruz, C.**, **Valenti, V.**, *et al.*, 2024  
   _EViz: Empowering Earth System Model Visualization_  
   AMS Annual Meeting
 
