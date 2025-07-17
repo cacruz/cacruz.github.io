@@ -1,0 +1,57 @@
+---
+# _config.yml for Carlos Cruz's GitHub Portfolio using Minimal Mistakes theme
+
+# Site settings
+title: "Carlos Cruz"
+name: "Carlos A. Cruz"
+description: "Computational Scientist | NASA GSFC | GMU"
+logo: "/assets/img/photo.jpg"
+url: "https://cacruz.github.io"
+baseurl: "" # GitHub Pages project root
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Author profile for sidebar
+author:
+  name: "Carlos A. Cruz"
+  avatar: "/assets/img/photo.jpg"
+  bio: "Lead developer of NU-WRF and eViz. Adjunct professor at GMU."
+  location: "Maryland, USA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/cacruz"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/carlos-cruz-0844b79"
+    - label: "CV (PDF)"
+      icon: "fas fa-file-pdf"
+      url: "/assets/carlos_cruz_cv.pdf"
+
+# Sidebar configuration
+sidebar:
+  nav: "sidebar-nav"
+
+# Collections for pages
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-include-cache
