@@ -59,8 +59,8 @@ _B.S., Physics_ — May 1988
 ### SSAI @ NASA GSFC — Chief Scientific Programmer Analyst (May 2012 – Present)
 
 - Lead software engineer of NASA Unified WRF (NU-WRF)
-- Architect of **eViz**, an easy to use real-time Earth system model visualization tool
-- Architect of **reg**, a Python-based regression testing tool
+- Lead developer of **eViz**, an easy to use real-time Earth system model visualization tool
+- Lead developer of **reg**, a Python-based regression testing tool
 - Refactored NASA-GISS modelE for HPC compatibility and regression testing
 - Contributor to **TERRAHydro** and CREST tensor framework
 - Trained junior staff and organized NASA software training bootcamps

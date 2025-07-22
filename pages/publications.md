@@ -18,7 +18,7 @@ author_profile: true
   _NU-WRF Cold Season Performance..._  
   *Journal of Hydrometeorology*, 22
 
-<small>Full list available upon request or in the [full CV](/cv/).</small>
+<small>Full list in the [full CV](/cv/).</small>
 
 ---
 
@@ -36,4 +36,4 @@ author_profile: true
   _Improving Aerosol Representation in NU-WRF_  
   AMS Annual Meeting
 
-<small>Full list available upon request or in the [full CV](/cv/).</small>
+<small>Full list available in the [full CV](/cv/).</small>
