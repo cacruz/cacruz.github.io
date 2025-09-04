@@ -18,13 +18,16 @@ _Aug 2018 – Present_
 I teach and develop courses that equip students with foundational and applied skills in scientific programming, simulation, and high-performance computing.
 
 **Courses Taught:**
-- 🧮 **CDS 130: Computing for Scientists**  
+- **CDS 130: Computing for Scientists**  
   Introduction to programming and algorithmic thinking for solving practical scientific problems.
 
-- 🧪 **CDS 230: Modeling and Simulation I**  
+- **CDS 230: Modeling and Simulation I**  
   Introduction to modeling and simulation concepts using the Python programming language.
 
-- 🖥️ **CDS 351: Elements of High Performance Computing**  
+- **CDS 301: Scientific Information and Data Visualization**  
+  An in-depth study of the methods and software used in Data Science to visualizecomplex information.
+
+- **CDS 351: Elements of High Performance Computing**  
   Explore aspects of high-performance computing (HPC) including Unix basics, file systems, command scripts, Git, C/C++ programming, basics of parallel programming, and HPC system architectures.
 
 ### Instructor, NASA GSFC Training
