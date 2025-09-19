@@ -9,9 +9,9 @@ author_profile: true
 
 Python-based toolkit for real-time diagnostics and plotting of Earth System model output. Designed to integrate with HPC workflows and produce high-quality publication-ready plots.
 
-- 🔗 [eViz GitHub Repository](https://github.com/cacruz/eviz)
-- 🛠 Features: Plot APIs, dark/light themes, Streamlit support, animation, auto-scaling
-- 📦 Technologies: Python, xarray, CartoPy, Streamlit, Matplotlib
+- [eViz GitHub Repository](https://github.com/cacruz/eviz)
+- Features: Plot APIs, dark/light themes, Streamlit support, animation, auto-scaling
+- Technologies: Python, xarray, CartoPy, Streamlit, Matplotlib
 
 ---
 
@@ -19,8 +19,8 @@ Python-based toolkit for real-time diagnostics and plotting of Earth System mode
 
 Contributed as lead software engineer supporting model improvements, configuration, diagnostics, and automation. Developed regression testing tools, build systems, and documentation.
 
-- 🔗 [NU-WRF Overview](https://nuwrf.gsfc.nasa.gov/)
-- 🧠 Areas: Earth system modeling, land-atmosphere coupling, data assimilation
+- [NU-WRF Overview](https://nuwrf.gsfc.nasa.gov/)
+- Areas: Earth system modeling, land-atmosphere coupling, data assimilation
 
 ---
 
@@ -28,8 +28,8 @@ Contributed as lead software engineer supporting model improvements, configurati
 
 Refactored legacy climate model for HPC environments and scientific reproducibility. Introduced Git-based workflow and Python regression testing framework (**reg**).
 
-- 🔧 Focus: Portability, automation, version control readiness
-- 📘 Framework: `reg` — reusable across modelE and NU-WRF
+- Focus: Portability, automation, version control readiness
+- Framework: `reg` — reusable across modelE and NU-WRF
 
 ---
 

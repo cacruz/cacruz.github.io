@@ -15,8 +15,8 @@ classes: wide
 **Work**  
 NASA Goddard Space Flight Center  
 Greenbelt, MD 20771  
-📱 (703) 405-4721  
-📧 carlos.a.cruz@nasa.gov  
+(703) 405-4721  
+carlos.a.cruz@nasa.gov  
 
 ---
 

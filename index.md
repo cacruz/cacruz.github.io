@@ -16,8 +16,8 @@ I have contributed to high-impact efforts across modeling, visualization, and hi
 
 ## Contact
 
-* 📧 Email: [carlos.a.cruz@nasa.gov](mailto:carlos.a.cruz@nasa.gov)
-* 🔗 [GitHub](https://github.com/cacruz)
-* 💼 [LinkedIn](https://www.linkedin.com/in/carlos-cruz-0844b79)
-* 📄 [Download Resume (PDF)](/assets/files/carlos_cruz_resume.pdf)
-* 📄 [Download CV (PDF)](/assets/files/carlos_cruz_cv.pdf)
+* Email: [carlos.a.cruz@nasa.gov](mailto:carlos.a.cruz@nasa.gov)
+* [GitHub](https://github.com/cacruz)
+* [LinkedIn](https://www.linkedin.com/in/carlos-cruz-0844b79)
+* [Download Resume (PDF)](/assets/files/carlos_cruz_resume.pdf)
+* [Download CV (PDF)](/assets/files/carlos_cruz_cv.pdf)

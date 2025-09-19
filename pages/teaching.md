@@ -42,6 +42,6 @@ I teach and develop courses that equip students with foundational and applied sk
 
 ---
 
-📄 For a full list of publications, see [CV](/cv/)  
-💡 For tools and research software, visit [Projects](/projects/)
+For a full list of publications, see [CV](/cv/)  
+For tools and research software, visit [Projects](/projects/)
 
