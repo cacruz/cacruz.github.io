@@ -22,12 +22,25 @@ carlos.a.cruz@nasa.gov
 
 ## Skills
 
-- HPC: Experience with complex climate/data assimilation systems  
-- Models: NU-WRF, GEOS-5, modelE, MOM4, HyCOM  
-- Programming: Fortran, Python, C/C++, Bash  
-- Tools: MPI, TotalView, Allinea, TAU  
-- Visualization: Matlab, GrADS, LaTeX, MS Office  
-- OS: Unix/Linux, macOS (Darwin), Windows  
+- High-Performance Computing (HPC)
+    - Expertise with large-scale climate and data assimilation workflows
+    - Experience running and optimizing models on HPC clusters and cloud-based environments
+- Numerical Models
+    - NU-WRF, GEOS-5, ModelE, MOM4, HyCOM
+- Programming & Scripting
+    - Fortran, Python, C/C++, Bash
+    - Focus on scientific computing, data processing, and workflow automation
+- Version Control & Collaboration
+    - Git, GitHub – branching workflows, CI/CD integration
+- Data Visualization
+    - Python Data Science Stack: Matplotlib, Cartopy, xarray, pandas, Plotly, and custom visualization package eViz
+    - Matlab, GrADS
+    - Automated figure generation, interactive dashboards, and publication-ready graphics
+- Documentation & Reporting
+    - LaTeX, Sphinx – reproducible documentation
+    - MS Office – technical reports and presentations
+- Operating Sys
+    - Unix/Linux, macOS (Darwin), Windows
 
 ---
 

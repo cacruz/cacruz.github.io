@@ -9,7 +9,7 @@ I am passionate about bridging computational thinking, scientific modeling, and 
 
 ---
 
-## 🎓 Teaching
+## Teaching
 
 **Adjunct Assistant Professor**  
 *Department of Computational and Data Sciences, George Mason University*  
@@ -25,7 +25,7 @@ I teach and develop courses that equip students with foundational and applied sk
   Introduction to modeling and simulation concepts using the Python programming language.
 
 - **CDS 301: Scientific Information and Data Visualization**  
-  An in-depth study of the methods and software used in Data Science to visualizecomplex information.
+  An in-depth study of the methods and software used in Data Science to visualize complex information.
 
 - **CDS 351: Elements of High Performance Computing**  
   Explore aspects of high-performance computing (HPC) including Unix basics, file systems, command scripts, Git, C/C++ programming, basics of parallel programming, and HPC system architectures.
