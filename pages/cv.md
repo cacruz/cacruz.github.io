@@ -3,8 +3,8 @@ layout: single
 title: "Resume"
 permalink: /cv/
 author_profile: true
-toc: true
-toc_sticky: true
+#toc: true
+#toc_sticky: true
 classes: wide
 ---
 
@@ -39,7 +39,7 @@ carlos.a.cruz@nasa.gov
 - Documentation & Reporting
     - LaTeX, Sphinx – reproducible documentation
     - MS Office – technical reports and presentations
-- Operating Sys
+- Operating Systems
     - Unix/Linux, macOS (Darwin), Windows
 
 ---
@@ -129,21 +129,20 @@ _B.S., Physics_ — May 1988
 
 ---
 
-## Volunteerism
+## Special Qualifications
 
-- Science fair judge (Fairfax & Alexandria Public Schools)  
-- Tutor, Alexandria City Public Schools (2016–2017)  
-- Tutor, Fairfax County Adult Education (2014)  
-- Sigma Xi Research Showcase Online Judge
+- Numerical & Geophysical Modeling
+- Scientific & Parallel Programming (MPI, HPC)
+- Workflow Optimization for Climate Models
+- Fluent in Spanish · U.S. Citizen
 
 ---
 
-## Special Qualifications
+## Volunteerism
 
-- Scientific/Parallel Programming (MPI, HPC)  
-- Numerical Methods & Geophysical Modeling  
-- Fluent in Spanish  
-- U.S. Citizen
+- STEM Tutor – Alexandria City (2016–17) · Fairfax County (2014)
+- Science Fair Judge – Alexandria & Fairfax Regional Fairs
+- Sigma Xi Research Showcase Judge
 
 ---
 
