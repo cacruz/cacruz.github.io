@@ -14,5 +14,5 @@ I am a computational scientist specializing in Earth system modeling, scientific
 - [LinkedIn](https://www.linkedin.com/in/carlos-cruz-0844b79)
 - [GitHub Profile](https://github.com/cacruz)
   
-Contact:  For professional inquiries, please reach out via [LinkedIn](https://www.linkedin.com/in/carlos-cruz-0844b79) or email: carlos.a.cruz@nasa.gov
+Contact:  For professional inquiries, please reach out via [LinkedIn](https://www.linkedin.com/in/carlos-cruz-0844b79) or email: carlos.a.cruz@gmail.com
 

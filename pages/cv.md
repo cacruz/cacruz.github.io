@@ -13,10 +13,10 @@ classes: wide
 ## Contact
 
 **Work**  
-NASA Goddard Space Flight Center  
+SSAI Inc and NASA Goddard Space Flight Center  
 Greenbelt, MD 20771  
 (703) 405-4721  
-carlos.a.cruz@nasa.gov  
+carlos.a.cruz@gmail.com
 
 ---
 
